@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @SpringBootApplication
 public class DemoSpringApplication {
+	//Label needed for server to identify commands
 
 	@RequestMapping("/hello")
 	@ResponseBody
