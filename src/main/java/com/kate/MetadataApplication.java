@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MetadataApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MetadataApplication.class, args);
 	}
 }
